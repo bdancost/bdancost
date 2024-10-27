@@ -1,12 +1,38 @@
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/bdancost">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bdancost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
-  username=bdancost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdancost&layout=compact&langs_count=6&theme=tokyonight"/>
- 
-  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bdancost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max- 
+    width: 100%;"/>
+  </a>
+  <a href="https://github.com/devemdobro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdancost&layout=compact&langs_count=6&theme=tokyonight" style="max-width: 100%;"/>
+  </a>
 </div>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<style>
+  @media (max-width: 768px) {
+    div > a > img {
+      height: auto;
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 480px) {
+    div > a > img {
+      height: auto;
+      width: 100%;
+    }
+    div > img {
+      height: 25px;
+      width: 30px;
+    }
+  }
+</style>
+
 
 <br>
 
