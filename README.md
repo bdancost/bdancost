@@ -8,27 +8,6 @@
   </a>
 </div>
 
-<style>
-  @media (max-width: 768px) {
-    div > a > img {
-      height: auto;
-      width: 100%;
-    }
-  }
-
-  @media (max-width: 480px) {
-    div > a > img {
-      height: auto;
-      width: 100%;
-    }
-    div > img {
-      height: 25px;
-      width: 30px;
-    }
-  }
-</style>
-
-
 <br>
 
 <div style="display: inline_block"><br>
