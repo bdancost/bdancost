@@ -3,11 +3,6 @@
 🎓 **About Me**  
 I'm currently studying **Systems Analysis and Development** with a focus on **Web Development** and **Data Analysis**.
 
-💻 **What I Do**  
-I enjoy combining **front-end development** with data skills, building applications with:
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**, **React**, and **TypeScript** for web development
-- **Python**, **SQL**, **Power BI**, and **Tableau** for data analysis and visualization
-
 📚 **Learning Focus**  
 I'm currently deepening my knowledge in:
 - Front-end frameworks and TypeScript
@@ -22,7 +17,7 @@ I'm currently deepening my knowledge in:
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" width="40" height="30" alt="SQL"> SQL
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
 </div>
 
 <br>
