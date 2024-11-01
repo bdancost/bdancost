@@ -22,6 +22,7 @@ I'm currently deepening my knowledge in:
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" width="40" height="30" alt="SQL"> SQL
 </div>
 
 <br>
