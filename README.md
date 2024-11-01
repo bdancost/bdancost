@@ -1,40 +1,30 @@
-# 👋 Hello, I'm Daniel!
+# 👋 Hi, I'm Daniel!
 
-🎓 **Studying Systems Analysis and Development**  
-Currently pursuing a degree in Systems Analysis and Development, where I'm specializing in **Web Development** and **Data Analysis**. My passion lies in mastering both the art of building engaging websites and the science of deriving insights from data.
+🎓 **About Me**  
+I'm currently studying **Systems Analysis and Development** with a focus on **Web Development** and **Data Analysis**. I’m based in São Paulo, Brazil, and work as a **Data Analysis intern** where I use **SQL**, **Python**, and **Power BI** to create data insights that drive strategic decisions.
 
-💼 **Data Analysis Intern**  
-I work as a Data Analysis intern, applying and honing my skills in **SQL**, **Power BI**, and **Python** to create insightful reports and dashboards that support data-driven decision-making. This role has deepened my technical expertise and nurtured my analytical mindset.
+💻 **What I Do**  
+I enjoy combining **front-end development** with data skills, building applications with:
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**, **React**, and **TypeScript** for web development
+- **Python**, **SQL**, **Power BI**, and **Tableau** for data analysis and visualization
 
-📚 **What I'm Learning**  
-I am dedicated to continuous learning, constantly expanding my knowledge through books, courses, and hands-on projects. Here are some key areas I’m focused on:
-
-- **HTML, CSS, JavaScript, React, and TypeScript** for building responsive, dynamic, and user-friendly web applications.
-- **Python and SQL** for data manipulation, analysis, and backend processes.
-- **Power BI and Tableau** for creating interactive data visualizations and insights.
-- **Statistics and Machine Learning** fundamentals, as a stepping stone toward Data Science.
-
-🚀 **Projects and Academic Experiences**  
-- Building a **data-driven portfolio** with e-commerce projects to practice data analysis, visualization, and storytelling.
-- Academic work focused on **data modeling**, **database management**, and **cybersecurity**.
-- Studies on **memory management** in operating systems, with an emphasis on IoT devices.
-
-🌟 **Professional Goal**  
-My aim is to become a skilled **Web Developer** and **Data Professional**, combining my technical skills in development with a strong foundation in data insights. I'm committed to learning every aspect of the web development process, as well as mastering data analysis techniques to provide actionable insights.
-
-🌍 **Location**  
-Based in São Paulo, Brazil.
+📚 **Learning Focus**  
+I'm currently deepening my knowledge in:
+- Front-end frameworks and TypeScript
+- Data science fundamentals and machine learning basics
 
 
-🛠️ **Technologies and Tools**  
-![HTML5](https://cdn-icons-png.flaticon.com/512/732/732212.png) ![CSS3](https://cdn-icons-png.flaticon.com/512/732/732190.png) ![JavaScript](https://cdn-icons-png.flaticon.com/512/919/919828.png) ![React](https://cdn-icons-png.flaticon.com/512/919/919851.png) ![TypeScript](https://cdn-icons-png.flaticon.com/512/919/919832.png) ![Python](https://cdn-icons-png.flaticon.com/512/5968/5968350.png) ![SQL](https://cdn-icons-png.flaticon.com/512/5815/5815807.png) ![Power BI](https://cdn-icons-png.flaticon.com/512/732/732228.png) ![Tableau](https://cdn-icons-png.flaticon.com/512/732/732200.png)
+🛠️ **Tech Stack**  
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20" height="20" alt="HTML5"> HTML5
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20" height="20" alt="CSS3"> CSS3
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="20" height="20" alt="JavaScript"> JavaScript
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="20" height="20" alt="React"> React
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="20" height="20" alt="TypeScript"> TypeScript
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="20" height="20" alt="Python"> Python
+  <img src="https://cdn-icons-png.flaticon.com/512/5815/5815807.png" width="20" height="20" alt="SQL"> SQL
+</p>
 
-✨ **A Bit More About Me**  
-I am an enthusiastic learner, always curious about new technologies and innovations in both Web Development and Data Science. My journey is driven by a commitment to become a top-tier professional, equipped with a solid theoretical foundation and hands-on experience in development and data analysis. I’m always open to collaborating and learning from others in the tech community!
-
----
-
-> "Dedication, consistency, and resilience are the keys to turning knowledge into impact."
 
 
 <div>
