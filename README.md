@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Daniel!
+### 👋 Hi, I'm Daniel!
 
 🎓 **About Me**  
-I'm currently studying **Systems Analysis and Development** with a focus on **Web Development** and **Data Analysis**. I’m based in São Paulo, Brazil, and work as a **Data Analysis intern** where I use **SQL**, **Python**, and **Power BI** to create data insights that drive strategic decisions.
+I'm currently studying **Systems Analysis and Development** with a focus on **Web Development** and **Data Analysis**.
 
 💻 **What I Do**  
 I enjoy combining **front-end development** with data skills, building applications with:
@@ -15,26 +15,6 @@ I'm currently deepening my knowledge in:
 
 
 🛠️ **Tech Stack**  
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20" height="20" alt="HTML5"> HTML5
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20" height="20" alt="CSS3"> CSS3
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="20" height="20" alt="JavaScript"> JavaScript
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="20" height="20" alt="React"> React
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="20" height="20" alt="TypeScript"> TypeScript
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="20" height="20" alt="Python"> Python
-  <img src="https://cdn-icons-png.flaticon.com/512/5815/5815807.png" width="20" height="20" alt="SQL"> SQL
-</p>
-
-
-
-<div>
-<a href="https://github.com/bdancost">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdancost&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bdancost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<br>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,6 +23,15 @@ I'm currently deepening my knowledge in:
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+<br>
+
+<div>
+<a href="https://github.com/bdancost">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdancost&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bdancost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
  
  <br>
  
