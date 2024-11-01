@@ -1,11 +1,7 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/bdancost">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bdancost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max- 
-    width: 100%;"/>
-  </a>
-  <a href="https://github.com/bdancost">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdancost&layout=compact&langs_count=6&theme=tokyonight" style="max-width: 100%;"/>
-  </a>
+<div>
+<a href="https://github.com/bdancost">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
