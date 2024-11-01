@@ -3,10 +3,10 @@
 🎓 **About Me**  
 I'm currently studying **Systems Analysis and Development** with a focus on **Web Development** and **Data Analysis**.
 
-📚 **Learning Focus**  
-I'm currently deepening my knowledge in:
-- Front-end frameworks and TypeScript
-- Data science fundamentals and machine learning basics
+**Current Learning Focus**  
+I’m actively expanding my skills in:
+- **Python Automation**: Writing scripts for data automation and efficiency
+- **Advanced Front-End**: Deepening my expertise in JavaScript, React, and TypeScript to create more dynamic and responsive user experiences
 
 
 🛠️ **Tech Stack**  
