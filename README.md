@@ -18,7 +18,7 @@ I’m actively expanding my skills in:
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <svg viewBox="0 0 148 90" fill="none" xmlns="http://www.w3.org/2000/svg" height="30" width="40">
-  <path d="M34.055 23.929h-8.02V56.01h8.02v-8.47h7.984c8.09 0 13.385-5.488 13.385-11.86 0-6.372-5.295-11.751-13.385-11.751h-7.984v-.001zm.658 7.937h6.753c3.94 0 6.472 2.715 6.472 5.786 0 3.07-2.531 5.885-6.472 5.885h-6.753V31.866zM74.799 23.929h-8.023L61.26 56.01h7.965l1.273-4.022h8.952l1.307 4.022h8.137l-7.095-21.47h-.001l-1.001-3.088-.002-.005-.003-.007-.018-.058c-.015-.046-.033-.098-.051-.157a7.26 7.26 0 00-.293-.868c
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
