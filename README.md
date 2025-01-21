@@ -5,7 +5,7 @@ I'm currently studying **Systems Analysis and Development** with a focus on **We
 
 **Current Learning Focus**  
 I’m actively expanding my skills in:
-- **Advanced Front-End**: Deepening my expertise in JavaScript, React, and TypeScript to create more dynamic and responsive user experiences
+- **Advanced Front-End**: Deepening my expertise in JavaScript, TypeScript, React and Next.JS to create more dynamic and responsive user experiences
 
 
 🛠️ **Tech Stack**  
