@@ -9,7 +9,7 @@ I’m actively expanding my skills in:
 
 
 🛠️ **Tech Stack**  
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; justify-items: center; align-items: center; width: 100%;">
+<div style="display: inline_block">
   <img alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
