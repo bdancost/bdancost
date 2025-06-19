@@ -20,6 +20,7 @@ I’m actively expanding my skills in:
   <img align="center" alt="Next.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Node.js" loading="lazy" width="60" height="50" decoding="async" data-nimg="1" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/nodejs-icon.svg" style="color: transparent;">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 
 </div>
