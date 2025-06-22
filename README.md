@@ -26,11 +26,11 @@ I’m actively expanding my skills in:
     <td align="center">
       <img alt="Tailwind" title="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="TypeScript" title="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img alt="React" title="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     </td>
@@ -42,6 +42,12 @@ I’m actively expanding my skills in:
     </td>
     <td align="center">
       <img alt="Python" title="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    </td>
+    <td align="center">
+      <img alt="Java" title="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+    </td>
+    <td align="center">
+      <img alt="PostgreSQL" title="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
     </td>
   </tr>
 </table>
