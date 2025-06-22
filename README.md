@@ -12,39 +12,40 @@ I’m actively expanding my skills in:
 <table>
   <tr>
     <td align="center">
-      <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+      <img alt="JavaScript" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     </td>
     <td align="center">
-      <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+      <img alt="HTML" title="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     </td>
     <td align="center">
-      <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+      <img alt="CSS" title="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     </td>
     <td align="center">
-      <img alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+      <img alt="Bootstrap" title="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
     </td>
     <td align="center">
-      <img alt="Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+      <img alt="Tailwind" title="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+      <img alt="TypeScript" title="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
     </td>
     <td align="center">
-      <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+      <img alt="React" title="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     </td>
     <td align="center">
-      <img alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+      <img alt="Next.js" title="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     </td>
     <td align="center">
-      <img alt="Node.js" height="40" width="50" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/nodejs-icon.svg" />
+      <img alt="Node.js" title="Node.js" height="40" width="50" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/nodejs-icon.svg" />
     </td>
     <td align="center">
-      <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+      <img alt="Python" title="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     </td>
   </tr>
 </table>
+
 
 
 <div>
