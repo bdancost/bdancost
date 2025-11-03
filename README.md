@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Daniel!
 
 🎓 **About Me**  
-I'm currently studying **Systems Analysis and Development** with a focus on **Web Development** and **Data Analysis**.
+Currently, I hold a degree in **Systems Analysis and Development** with a focus on **Web Development** and **Data Analysis**.
 
 **Current Learning Focus**  
 I’m actively expanding my skills in:
