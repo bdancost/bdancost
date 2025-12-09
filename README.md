@@ -48,11 +48,24 @@ I’m actively expanding my skills in:
 
 
 
-<div>
-<a href="https://github.com/bdancost">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdancost&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bdancost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+
+  <!-- Estatísticas de Linguagens -->
+  <img 
+       height="180em" 
+       loading="lazy"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdancost&layout=compact&langs_count=8&theme=radical"
+  />
+
+  <!-- Estatísticas do GitHub -->
+  <img 
+       height="180em" 
+       loading="lazy"
+       src="https://github-readme-stats.vercel.app/api?username=bdancost&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+  />
+
 </div>
+
 
  
  <br>
