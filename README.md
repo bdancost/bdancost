@@ -49,14 +49,15 @@ I’m actively expanding my skills in:
 
 
 <div align="center">
-
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=bdancost&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bdancost&layout=compact&langs_count=8&theme=radical"/>
-
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdancost&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bdancost&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bdancost&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdancost&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bdancost&theme=radical&utcOffset=3"/>
+  
 </div>
+
 
 
 
