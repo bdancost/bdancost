@@ -65,7 +65,7 @@ I’m actively expanding my skills in:
  
  <br>
  
-  ### Para contato e networking me segue nas redes abaixo!
+  ### For contact and networking, follow me on the socials below!
 
   <br>
  
