@@ -1,12 +1,28 @@
-### 👋 Hi, I'm Daniel!
+# 👋 Hi, I'm Daniel Fernandes
 
-🎓 **About Me**  
-Currently, I hold a degree in **Systems Analysis and Development** with a focus on **Web Development** and **Data Analysis**.
+💻 Fullstack Developer focused on Backend (Node.js)  
+🚀 Building scalable web applications and real-world systems  
 
-**Current Learning Focus**  
-I’m actively expanding my skills in:
-- **Advanced Front-End**: Deepening my expertise in JavaScript, TypeScript, React and Next.JS to create more dynamic and responsive user experiences
+---
 
+## 🧠 About Me
+
+I’m a Fullstack Developer with a strong focus on backend development using Node.js.
+
+I build web applications with real-world features such as APIs, authentication, and database integration.  
+Currently, I’m focused on improving scalability, clean architecture, and best practices in modern web development.
+
+---
+
+## 🎯 Current Focus
+
+- Backend Development with **Node.js**
+- Building **REST APIs**
+- Database integration (**PostgreSQL**)
+- Writing clean, scalable and maintainable code
+- Fullstack applications connecting frontend and backend
+
+---
 
 🛠️ **Tech Stack**  
 <table>
