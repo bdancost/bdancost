@@ -31,9 +31,6 @@ Currently, I’m focused on improving scalability, clean architecture, and best 
       <img alt="JavaScript" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     </td>
     <td align="center">
-      <img alt="HTML" title="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    </td>
-    <td align="center">
       <img alt="CSS" title="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     </td>
     <td align="center">
@@ -42,16 +39,19 @@ Currently, I’m focused on improving scalability, clean architecture, and best 
     <td align="center">
       <img alt="TypeScript" title="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="React" title="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     </td>
+  </tr>
+  <tr> 
     <td align="center">
       <img alt="Next.js" title="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     </td>
     <td align="center">
       <img alt="Node.js" title="Node.js" height="40" width="50" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/nodejs-icon.svg" />
+    </td>
+    <td align="center">
+      <img alt="NESTJS" title="NESTJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
     </td>
     <td align="center">
       <img alt="Python" title="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
