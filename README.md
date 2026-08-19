@@ -65,23 +65,17 @@ Currently, I’m focused on improving scalability, clean architecture, and best 
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api?username=bdanconst&show_icons=true&theme=radical&include_all_commits=true"
-        />
-      </td>
 
-      <td>
-        <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdanconst&layout=compact&langs_count=8&theme=radical"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=bdanconst&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bdanconst&layout=compact&langs_count=8&theme=radical"
+  />
+
 </div>
 
 
