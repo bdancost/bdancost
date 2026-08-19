@@ -67,13 +67,13 @@ Currently, I’m focused on improving scalability, clean architecture, and best 
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=bdanconst&show_icons=true&theme=radical"
+    src="https://SEU-PROJETO.vercel.app/api?username=bdanconst&show_icons=true&theme=radical"
     alt="GitHub Stats"
   />
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdanconst&layout=compact&theme=radical"
+    src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=bdanconst&layout=compact&theme=radical"
     alt="Top Languages"
   />
 </div>
